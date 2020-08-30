@@ -1,0 +1,33 @@
+/**************************Tag Selectors************************/
+h1 {
+  color:red;font-size: 70px;
+}
+h1:hover{
+  color: gold;
+}
+body
+{
+  background-color: #99d8d0;
+}
+/* img:hover
+{
+  color: gold;
+} */
+img{
+  width: 500px;
+}
+/***********************Class Seleectors*************************/
+.Chicken
+{
+background-color:yellow;
+}
+/*   .Brocolli
+   {
+  background-color: blue;
+   }
+*/
+/***********************Id Seleectors*************************/
+/**  #heading
+     {
+     color: blue;
+    }              ***/
